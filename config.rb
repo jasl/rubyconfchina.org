@@ -78,4 +78,6 @@ end
 
 activate :deploy do |deploy|
   deploy.method = :git
+  deploy.remote = :rubyconf
+  deploy.branch = "gh-pages"
 end
