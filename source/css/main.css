@@ -300,6 +300,22 @@ img { max-width: 100%; }
   margin-top: 20px;
 }
 
+.railsgirls .title{
+  font-size: 18px;
+  margin-bottom: 8px;
+  font-weight: 600;
+}
+
+.railsgirls .time{
+  font-size: 13px;
+  margin-bottom: 8px;
+}
+
+.railsgirls .description{
+  font-size: 14px;
+  line-height: 20px;
+}
+
 .sponsors > p {
   max-width: 760px;
   margin: 0 auto;
